@@ -21,4 +21,4 @@ require("lazy").setup({
 	spec = "crgi.lazy",
 	change_detection = { notify = false },
 	install = { colorscheme = { "kanagawa" } },
-}
+})
